@@ -60,6 +60,18 @@
     "iostream": "cpp",
     "chrono": "cpp",
     "cmath": "cpp",
-    "ostream": "cpp"
+    "ostream": "cpp",
+    "array": "cpp",
+    "any": "cpp",
+    "string_view": "cpp",
+    "ranges": "cpp",
+    "span": "cpp",
+    "regex": "cpp",
+    "string": "cpp",
+    "iosfwd": "cpp",
+    "bitset": "cpp",
+    "initializer_list": "cpp",
+    "utility": "cpp",
+    "valarray": "cpp"
   }
 }
